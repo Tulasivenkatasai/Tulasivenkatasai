@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tulasivenkatasai
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Java Script and completed HTML5 & CSS
-- 💞️ I’m looking to collaborate for Software Industry
+- 🌱 I’m currently learning Java and completed HTML ,CSS &Java Script.
+- 💞️ I’m looking to collaborate for Software Industry.
 - 📫 How to reach me saimarisetti12@gmail.com
 
 <!---
